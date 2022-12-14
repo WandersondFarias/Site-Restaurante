@@ -52,4 +52,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
 </table>
  
- check application <a href="https://wandersondefariasprogramador.github.io/SITE-HAMBURGUERIA/">HERE!</a>
+ check application <a href="https://wandersondefariasprogramador.github.io/Site-Restaurante/
+ ">HERE!</a>
